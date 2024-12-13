@@ -1,0 +1,27 @@
+.titulo{
+    
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    
+}
+.rodape{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    display: inline-block;
+}
+p{
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
+div{
+    
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
